@@ -8,7 +8,7 @@
    #### university : [hallym university](http://www.hallym.ac.kr)    
    #### 소속 : 소프트웨어융합대학   
    #### 전공 : 빅데이터 전공   
-   #### Github address : [Jimin0213][github]
+   #### Github address : [Jimni0213][github]
    [github]:http://github.com/Jimni0213
 ****
 
