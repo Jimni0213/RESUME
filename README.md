@@ -5,7 +5,7 @@
 ## 개인 정보
    #### 이름 : 정지민
    #### email : condi1@naver.com
-   #### university : [hallym university](http://wwww.hallym.ac.kr)    
+   #### university : [hallym university](http://www.hallym.ac.kr)    
    #### 소속 : 소프트웨어융합대학   
    #### 전공 : 빅데이터 전공   
    #### Github address : [Jimin0213][github]
