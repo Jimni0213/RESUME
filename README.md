@@ -1,6 +1,5 @@
 # RESUME
 -----
-<img ==jimin.jpg height=150 width=150>
 
 ## 개인 정보
    #### 이름 : 정지민
