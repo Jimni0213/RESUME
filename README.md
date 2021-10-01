@@ -9,7 +9,7 @@
    #### 소속 : 소프트웨어융합대학   
    #### 전공 : 빅데이터 전공   
    #### Github address : [Jimin0213][github]
-   [github]:http://github.com/Jimin0213
+   [github]:http://github.com/Jimni0213
 ****
 
 > 취미   
